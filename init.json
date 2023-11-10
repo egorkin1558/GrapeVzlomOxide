@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "server": {
+    "api": {
+      "ip": "193.35.18.230",
+      "port": 4111
+    },
+    "socket": {
+      "ip": "193.35.18.230",
+      "port": 4112
+    }
+  },
+  "files": {
+    "directory": "/sdcard/GrapeVzlom/",
+    "token_old": "token_old.txt",
+    "token_new": "token.txt",
+    "guest_hwid": "guest_hwid.txt"
+  },
+  "loader": {
+    "update": true,
+    "version": "https://github.com/egorkin1558/GrapeVzlomOxide/raw/main/version",
+    "file": "https://github.com/egorkin1558/GrapeVzlomOxide/raw/main/libGrapeVzlom.so",
+    "save": "/sdcard/libGrapeVzlom.so"
+  },
+  "offsets_k": [
+    ""
+  ]
+}
