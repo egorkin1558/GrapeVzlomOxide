@@ -11,7 +11,7 @@
     }
   },
   "files": {
-    "directory": "/sdcard/GrapeVzlom/",
+    "directory": "/sdcard/GrapeVzlomOxide/",
     "token_old": "token_old.txt",
     "token_new": "token.txt",
     "guest_hwid": "guest_hwid.txt"
