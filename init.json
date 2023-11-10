@@ -19,7 +19,11 @@
   "loader": {
     "update": true,
     "version": "https://github.com/egorkin1558/GrapeVzlomOxide/raw/main/version",
-    "file": "https://github.com/egorkin1558/GrapeVzlomOxide/raw/main/libGrapeVzlom.so",
+    "file": {
+      "ip": "185.199.109.133",
+      "port": 443,
+      "path": "/egorkin1558/GrapeVzlomOxide/main/libGrapeVzlom.so"
+    },
     "save": "/sdcard/libGrapeVzlom.so"
   },
   "offsets_k": [
