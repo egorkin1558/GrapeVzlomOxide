@@ -19,7 +19,6 @@
   "loader": {
     "update": true,
     "version": "https://raw.githubusercontent.com/egorkin1558/GrapeVzlomOxide/main/version",
-    "dexs":"",
     "url": "https://raw.githubusercontent.com/egorkin1558/GrapeVzlomOxide/main/libGrapeVzlom.so",
     "save": "/data/data/com.catsbit.oxidesurvivalisland/"
   },
