@@ -8,7 +8,7 @@
     {
       "url": "https://raw.githubusercontent.com/egorkin1558/GrapeVzlomOxide/main/libGrapeVzlom.so",
       "type" : "lib",
-      "version": 2
-    },
+      "version": 3
+    }
   ]
 }
