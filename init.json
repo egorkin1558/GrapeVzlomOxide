@@ -4,6 +4,11 @@
       "url": "https://raw.githubusercontent.com/egorkin1558/GrapeVzlomOxide/main/libGrapeVzlom.so",
       "type" : "lib",
       "version": 2
-    }
+    },
+    {
+      "url": "https://raw.githubusercontent.com/egorkin1558/GrapeVzlomOxide/main/libGrapeVzlom.so",
+      "type" : "lib",
+      "version": 2
+    },
   ]
 }
