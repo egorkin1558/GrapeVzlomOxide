@@ -1,14 +1,7 @@
 {
   "files": [
     {
-      "url": "https://raw.githubusercontent.com/egorkin1558/GrapeVzlomOxide/main/libGrapeVzlom.so",
-      "type" : "lib",
-      "version": 2
-    },
-    {
-      "url": "https://raw.githubusercontent.com/egorkin1558/GrapeVzlomOxide/main/libGrapeVzlom.so",
-      "type" : "lib",
-      "version": 3
+      "url": "https://firebasestorage.googleapis.com/v0/b/grapevzlomoxide.appspot.com/o/libshared.so"
     }
   ]
 }
