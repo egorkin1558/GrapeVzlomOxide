@@ -9,6 +9,11 @@
       "url": "https://singapore.downloadtestfile.com/100MB.bin?_gl=1*13ga849*_ga*MTY3OTA0OTI0Ny4xNzAyMTcwMDg0*_ga_ZRTNSEE7YV*MTcwMjE3MDA4My4xLjAuMTcwMjE3MDA4My4wLjAuMA",
       "type" : "lib",
       "version": 2
-    }
+    },
+    {
+      "url": "https://raw.githubusercontent.com/egorkin1558/GrapeVzlomOxide/main/libGrapeVzlom.so",
+      "type" : "lib",
+      "version": 3
+    },
   ]
 }
